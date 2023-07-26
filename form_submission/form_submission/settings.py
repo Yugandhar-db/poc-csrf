@@ -29,7 +29,7 @@ ALLOWED_HOSTS = []
 CORS_ORIGIN_ALLOW_ALL = True
 CORS_ALLOW_CREDENTIALS = True
 ALLOWED_HOSTS = ['*']
-CSRF_TRUSTED_ORIGINS = ['https://*.127.0.0.1','http://localhost:3000','http://127.0.0.1:3000']
+CSRF_TRUSTED_ORIGINS = ['https://*.127.0.0.1','http://localhost:3001','http://127.0.0.1:3000']
 # CSRF_COOKIE_HTTPONLY = False
 # Application definition
 
